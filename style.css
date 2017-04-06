@@ -1,0 +1,82 @@
+body, html {
+	background: linear-gradient(-225deg, rgba(30,30,30,0.6) 30%, rgba(46,46,46,0.5) 80%), url(images/fond.jpg) right center;    
+	background-size: cover;
+    margin: 0;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+.line {
+	height: 25%;
+}
+/*.line-footer {
+	height: 50%;
+}*/
+.container {
+	position: relative;
+}
+#logo {
+	position: absolute;
+	left: 60px;
+	background-color: rgba(255, 255, 255, 0.4);		
+
+}
+.informations {
+	height: 20%;
+}
+
+.informations h1 {
+	font-family: 'Cutive Mono', monospace;
+	font-size: 17px;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.informations p {
+	font-family: 'Cutive Mono', monospace;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+.informations a {
+	color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+}
+
+.informations a:hover {
+	color: #ffffff;
+}
+
+.corner {
+	display: flex;
+}
+
+#button {
+	font-size: 20px;
+	text-align: center;
+}
+
+.line-footer {
+	position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
